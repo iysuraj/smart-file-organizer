@@ -35,4 +35,4 @@ Useful for automating file management in offices, students, and content creators
 
 ## 📸 Demo
 
-![App Screenshot] (app.png)
+![App Screenshot](app.png)
