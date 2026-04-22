@@ -32,3 +32,7 @@ Downloads/
 
 ## 💡 Use Case
 Useful for automating file management in offices, students, and content creators.
+
+## 📸 Demo
+
+![App Screenshot](app.png)
